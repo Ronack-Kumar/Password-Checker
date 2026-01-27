@@ -1,4 +1,5 @@
 
+
 # Password Strength Checker
 
 A simple, robust Python CLI tool to evaluate password strength based on length and character variety.
@@ -52,3 +53,4 @@ Strength: STRONG
 Feedback:
  - Excellent! Your password meets all strength criteria.
 ```
+
